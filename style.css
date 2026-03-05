@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: flex-start;
+}
+
+.blue {
+    padding: 20px;
+    background-color: rgb(60, 110, 185);
+}
+
+.yo {
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(255, 213, 24);
+}
+
+.flex {
+    display: flex;
+}
+
+.red {
+    padding-right: 80px ;
+    background-color: rgb(255, 0, 0);
+}
