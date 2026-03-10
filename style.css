@@ -33,7 +33,16 @@ body {
     background-color: rgb(22, 192, 150);
 }
 
+.midori{
+    padding-bottom: 60px;
+    background-color: rgb(22, 192, 150);
+}
+
 .kuro {
     padding-bottom: 140px;
     background-color: rgb(62, 62, 62);
+}
+
+rounding {
+    border-radius: 20px;
 }
